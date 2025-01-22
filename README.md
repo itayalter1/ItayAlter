@@ -19,7 +19,6 @@ At the moment, I am working on projects involving system programming, real-time 
 ## Projects:
 Here are some of the projects I have worked on:
 
-- [Facebook-like Application](https://github.com/itayalter1/facebook-like-app)
 - [Arkanoid Game in Java](https://github.com/itayalter1/arkanoid-game)
 - [Real-Time Concurrent News Broadcasting Simulation](https://github.com/itayalter1/Concurrent-News-Broadcasting)
 - [File System Directory Copy](https://github.com/itayalter1/File-System-Directory-Copy)
@@ -29,4 +28,4 @@ Feel free to reach out to me for collaborations, questions, or advice on project
 
 - **Email:** itayalter1@gmail.com  
 - **GitHub:** [itayalter1](https://github.com/itayalter1)  
-- **LinkedIn:** [itayalter1 LinkedIn](https://www.linkedin.com/in/itayalter1)  
+- **LinkedIn:** [itayalter1 LinkedIn](http://www.linkedin.com/in/itay-alter)  
